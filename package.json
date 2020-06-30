@@ -1,0 +1,16 @@
+{
+  "name": "vam-catalog-parser",
+  "version": "1.0.0",
+  "description": "Translate csv into SFCC XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dave.wright@osf.digital",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "file-system": "^2.2.2",
+    "xmlbuilder2": "^2.1.2"
+  }
+}
